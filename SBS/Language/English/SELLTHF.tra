@@ -5,7 +5,7 @@
 @4    = ~My offer is still good.~
 @5    = ~I will pay the five hundred gold.~
 @6    = ~500 hundred is way too much.~
-@7    = ~What is your offer?~ ~SetGlobal("KnowBhaalScroll","LOCALS",1)~
+@7    = ~What is your offer?~ 
 @8    = ~Not right now.~
 @9    = ~You should use that scroll.  Remember, I don't give refunds.~
 @10   = ~Did that scroll do you any good?  I'm afraid I haven't be able to acquire anymore good merchadise from my distributors.~
