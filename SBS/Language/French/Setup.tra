@@ -1,4 +1,4 @@
-@0  = ~Invocation d'un enfant de Bhaal~
+@0  = ~Invocation d'un rejeton de Bhaal~
 @1  = ~N'oubliez pas d'installer au moins un des portraits, ou Sandra n'en aura pas !~
 @2  = ~L'empreinte de Bhaal parcourt ce parchemin et <CHARNAME> ressent une certaine connexion avec lui. Créé par un enfant de Bhaal, pour un enfant de Bhaal. Quel est son effet ? Et qui osera l'utiliser ?~
 @3  = ~L'âme divine~
@@ -24,7 +24,7 @@ Type:  arme à deux mains
 Force nécessaire: 14
 Utilisable par:
  Sandra~ 
-@5  = ~Sandra a acquis la capacité : L'âme divine~
+@5  = ~Sandra a acquis la capacité spéciale : L'âme divine~
 @6  = ~Ajout d'une capacité spéciale : Soin des blessures légères~
 @7  = ~Sandra~ 
 @8  = ~Que les dieux me protége !~ [MTS#s01]
