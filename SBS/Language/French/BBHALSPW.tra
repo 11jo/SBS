@@ -62,7 +62,6 @@
 @61   = ~Je l'amènerai devant la justice.~
 @62   = ~Je l'obligerai à me montrer comment utiliser mon pouvoir.~
 @63   = ~Ça ne te concerne pas.~
-
 @64   = ~Irenicus a pris vos âmes à toi et Imoen. Que feras-tu quand tu le retrouveras ?~
 @65   = ~Je récupérerais nos âmes, avant qu'il ne les utilise à de mauvais desseins.~
 @66   = ~Je récupérerais mon âme avant de lui faire payer.~
@@ -117,8 +116,7 @@ Sa justice brute.~
 @112  = ~L'amitié... me considères-tu comme une amie ?~
 @113  = ~Oui~
 @114  = ~Non~
-@115  = ~Je le savais... Je te considère aussi comme un ami. Peut-être que les enfants de Bhaal peuvent surmonter leur héritage avec des amis pareils.~ ~Je le savais...
- Je te considère aussi comme une amie. Peut-être que les enfants de Bhaal peuvent surmonter leur héritage avec des amis pareils.~
+@115  = ~Je le savais... Je te considère aussi comme un ami. Peut-être que les enfants de Bhaal peuvent surmonter leur héritage avec des amis pareils.~ ~Je le savais... Je te considère aussi comme une amie. Peut-être que les enfants de Bhaal peuvent surmonter leur héritage avec des amis pareils.~
 @116  = ~Je vois.~
 @117  = ~S'agit-il d'être prévoyant ou d'obtenir ta revanche ?~ ~S'agit-il d'être prévoyante ou d'obtenir ta revanche ?~
 @118  = ~Je veux protéger les autres de la souffrance qui m'a été infligée.~
@@ -217,8 +215,7 @@ Sa justice brute.~
 @211  = ~Ne dis pas ça... si toi tu succombes à l'appel du Bhaal... alors quel espoir nous reste-t-il ?~
 @212  = ~Tu as raison, je choisirai ma destinée par moi-même.~
 @213  = ~Tyr a toujours guidé mes pas. Je doute qu'il s'arrête maintenant.~
-@214
-  = ~Je résisterai jusqu'au bout. Nous ne lui appartiendrons jamais.~ 
+@214  = ~Je résisterai jusqu'au bout. Nous ne lui appartiendrons jamais.~ 
 @215  = ~Quelqu'un a essayé de prendre la place de Bhaal ! Qu'est-il arrivé ?~
 @216  = ~J'ai mis un terme à sa vie et ses illusions de grandeur.~
 @217  = ~Ses projets maléfiques sont de l'histoire ancienne.~
